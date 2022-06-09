@@ -2868,6 +2868,14 @@ input, select, textarea {
 			box-shadow: inset 0 1px 0 0 #dddddd;
 		}
 
+		#footer .container .icons a {
+			color:#000000;
+		}
+
+		#footer .container .icons a:hover {
+			color:#ffffff;
+		}
+
 		#footer footer {
 			bottom: 2em;
 			color: rgba(255, 255, 255, 0.5);
